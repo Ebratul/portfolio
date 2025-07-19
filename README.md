@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
-## Profile Link
--[Link:](#https://ebratul.github.io/portfolio/)
+## 🌐 Profile Link
+[🔗 Visit My Portfolio](https://ebratul.github.io/portfolio/)
